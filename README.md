@@ -43,10 +43,6 @@ rosrun turtlesim turtlesim_node
 rosrun my_robot_controller draw_flower.py
 ```
 
----
-
-## 📷 Demo Screenshot
-![Turtle Drawing a Flower](images/flower_sim.png)
 
 ---
 
